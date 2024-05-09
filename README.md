@@ -6,11 +6,11 @@ This is a simple movie listing application implemented in Python. It allows user
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/movie-listing-app.git
+git clone https://github.com/nishorgo/movie-listing-app.git
 ```
 Navigate to the project directory:
 ```bash
-cd movie-listing-app
+cd movie-listing
 ```
 Run the main Python script:
 ```bash
