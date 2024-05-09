@@ -8,15 +8,15 @@ This is a simple movie listing application implemented in Python. It allows user
 ```bash
 git clone https://github.com/nishorgo/movie-listing.git
 ```
-Navigate to the project directory:
+2. Navigate to the project directory:
 ```bash
 cd movie-listing
 ```
-Run the main Python script:
+3. Run the main Python script:
 ```bash
 python main.py
 ```
-Follow the on-screen instructions to interact with the application.
+4. Follow the on-screen instructions to interact with the application.
 
 ## How to Run the Tests
 Ensure you have Python installed on your machine.
